@@ -1,9 +1,7 @@
 # UNIVERSITY OF NAPLES FEDERICO II
 
 **Presented by:**  
-Lorenzo Esposito  
-Michele De Fazio
-Armando Zevola
+Lorenzo Esposito, Michele De Fazio, Armando Zevola
 
 ---
 
